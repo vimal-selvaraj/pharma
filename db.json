@@ -1,0 +1,161 @@
+{
+    "login":[
+        {
+            "id":1,
+            "username":"vimal",
+            "password":"sds"
+        }
+    ],
+     "products":[
+        {
+            "id":1,
+            "name":"Paracetamol",
+            "badge":"Assured",
+            "description":"lorem ipsum lorem lorem ipsum",
+            "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
+            "price":"100",
+            "size":[75,100,125],
+            "availability":false,
+            "qty":1
+        },
+        {
+            "id":2,
+            "name":"Paracetamol",
+            "badge":"Trending",
+            "description":"lorem ipsum lorem lorem ipsum",
+            "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
+            "price":"100",
+            "size":[75,100,125],
+            "availability":true,
+            "qty":1
+        },
+        {
+            "id":3,
+            "name":"Paracetamol",
+            "badge":"30% Off",
+            "description":"lorem ipsum lorem lorem ipsum",
+            "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
+            "price":"100",
+            "size":[75,100,125],
+            "availability":true,
+            "qty":1
+        },
+        {
+            "id":4,
+            "name":"Paracetamol",
+            "badge":"Assured",
+            "description":"lorem ipsum lorem lorem ipsum",
+            "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
+            "price":"100",
+            "size":[75,100,125],
+            "availability":true,
+            "qty":1
+        },
+        {
+            "id":5,
+            "name":"Paracetamol",
+            "badge":"10% Off",
+            "description":"lorem ipsum lorem lorem ipsum",
+            "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
+            "price":"100",
+            "size":[75,100,125],
+            "availability":true,
+            "qty":1
+        },
+        {
+            "id":6,
+            "name":"Paracetamol",
+            "badge":"20% Off",
+            "description":"lorem ipsum lorem lorem ipsum",
+            "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
+            "price":"100",
+            "size":[75,100,125],
+            "availability":true,
+            "qty":1
+        },
+        {
+            "id":7,
+            "name":"Paracetamol",
+            "badge":"50% Off",
+            "description":"lorem ipsum lorem lorem ipsum",
+            "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
+            "price":"100",
+            "size":[75,100,125],
+            "availability":true,
+            "qty":1
+        },
+        {
+            "id":8,
+            "name":"Paracetamol",
+            "badge":"Trending",
+            "description":"lorem ipsum lorem lorem ipsum",
+            "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
+            "price":"100",
+            "size":[75,100,125],
+            "availability":true,
+            "qty":1
+        }
+    ],
+   "menuItems":[
+        {
+           " title":"Top Trending",
+            "subItems":[
+                {
+                    "title":"Dilutions",
+                    "subItemsList":["Fever","Cough"]
+
+                },
+                {
+                    "title":"Capsules",
+                    "subItemsList":["Fever","Cough","pain"]
+
+                },
+                {
+                    "title":"ointments",
+                    "subItemsList":["scracthes","legiment tare"]
+
+                }
+            ]
+        },
+        {
+            "title":"Featured",
+            "subItems":[
+                {
+                    "title":"Dilutions",
+                    "subItemsList":["Fever","Cough"]
+
+                },
+                {
+                    "title":"Capsules",
+                    "subItemsList":["Fever","Cough","pain"]
+
+                },
+                {
+                    "title":"ointments",
+                    "subItemsList":["scracthes","legiment tare"]
+
+                }
+            ]
+        },
+        {
+            "title":"Mega Sale",
+            "subItems":[
+                {
+                    "title":"Dilutions",
+                    "subItemsList":["Fever","Cough"]
+
+                },
+                {
+                    "title":"Capsules",
+                    "subItemsList":["Fever","Cough","pain"]
+
+                },
+                {
+                    "title":"ointments",
+                    "subItemsList":["scracthes","legiment tare"]
+
+                }
+            ]
+        }
+    ]
+}

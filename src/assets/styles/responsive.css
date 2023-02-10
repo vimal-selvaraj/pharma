@@ -1,0 +1,46 @@
+@media only screen and (max-width:768px){
+    h1{
+      font-size: 26px !important;
+      line-height: 30px !important;
+    }
+    h2{
+      font-size: 20px !important;
+      line-height: 24px !important;
+    }
+    h3{
+  font-size: 20px !important;
+    }
+    h4{
+      font-size: 18px !important;
+      line-height: 20px !important;
+    }
+    h5{
+      font-size: 17px !important;
+      line-height: 20px !important;
+    }
+    .menu-toggler{
+      display: block;
+    }
+    .header .menu-items{
+      display: none;
+    }
+    .mobile-menu.show{
+      left: 0;
+    }
+    .home-content{
+      width: 90%;
+    }
+    .product-details{
+      flex-direction: column;
+    }
+    .see-more{
+      display: flex;
+      justify-content: flex-end;
+    }
+    .mission-row .d-flex{
+      order: 2;
+    }
+    .vision-content,.mission-content{
+      padding: 20px 0;
+    }
+  }
