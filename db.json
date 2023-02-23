@@ -1,87 +1,94 @@
 {
-    "login":[
-        {
-            "id":1,
-            "username":"vimal",
-            "password":"sds"
-        }
-    ],
      "products":[
         {
             "id":1,
-            "name":"Paracetamol",
+            "name":"Gabapentin",
             "badge":"Assured",
             "description":"lorem ipsum lorem lorem ipsum",
             "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
-            "price":"100",
+            "price":"500",
             "size":[75,100,125],
             "availability":false,
+            "category":"allergy",
+            "age":"20",
             "qty":1
         },
         {
             "id":2,
-            "name":"Paracetamol",
+            "name":"Antihistamines",
             "badge":"Trending",
             "description":"lorem ipsum lorem lorem ipsum",
             "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
-            "price":"100",
+            "price":"340",
             "size":[75,100,125],
             "availability":true,
+            "category":"fever",
+            "age":"20",
             "qty":1
         },
         {
             "id":3,
-            "name":"Paracetamol",
+            "name":"Albuterol",
             "badge":"30% Off",
             "description":"lorem ipsum lorem lorem ipsum",
             "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
-            "price":"100",
+            "price":"420",
             "size":[75,100,125],
             "availability":true,
+            "category":"cough",
+            "age":"50",
             "qty":1
         },
         {
             "id":4,
-            "name":"Paracetamol",
+            "name":"Antibiotics",
             "badge":"Assured",
             "description":"lorem ipsum lorem lorem ipsum",
             "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
-            "price":"100",
+            "price":"650",
             "size":[75,100,125],
             "availability":true,
+            "category":"allergy",
+            "age":"20",
             "qty":1
         },
         {
             "id":5,
-            "name":"Paracetamol",
+            "name":"Losartan",
             "badge":"10% Off",
             "description":"lorem ipsum lorem lorem ipsum",
             "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
-            "price":"100",
+            "price":"760",
             "size":[75,100,125],
             "availability":true,
+            "category":"fever",
+            "age":"50",
             "qty":1
         },
         {
             "id":6,
-            "name":"Paracetamol",
+            "name":"Metformin",
             "badge":"20% Off",
             "description":"lorem ipsum lorem lorem ipsum",
             "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
-            "price":"100",
+            "price":"870",
             "size":[75,100,125],
             "availability":true,
+            "category":"cough",
+            "age":"20",
             "qty":1
         },
         {
             "id":7,
-            "name":"Paracetamol",
+            "name":"Hydrocodone",
             "badge":"50% Off",
             "description":"lorem ipsum lorem lorem ipsum",
             "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
-            "price":"100",
+            "price":"10",
             "size":[75,100,125],
             "availability":true,
+            "category":"allergy",
+            "age":"50",
             "qty":1
         },
         {
@@ -90,9 +97,11 @@
             "badge":"Trending",
             "description":"lorem ipsum lorem lorem ipsum",
             "imgUrl":"https://www.similiaindia.com/image/cache/catalog/TRITURATION%2025GM/ARSENIC-IOD.-0x0.jpg",
-            "price":"100",
+            "price":"170",
             "size":[75,100,125],
             "availability":true,
+            "category":"fever",
+            "age":"50",
             "qty":1
         }
     ],
@@ -157,5 +166,13 @@
                 }
             ]
         }
-    ]
+    ],
+    "userdetails": [
+        {
+          "email": "pharma@gmail.com",
+          "password": "Pharma@123",
+          "username": "Chris HermsWorth",
+          "id": 1
+        }
+      ]
 }
